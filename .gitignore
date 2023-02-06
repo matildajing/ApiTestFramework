@@ -1,2 +1,3 @@
 #add for ignore 
 /ApiTestFramework/bin/Debug/*
+.vs/ApiTestFramework/xs/UserPrefs.xml
